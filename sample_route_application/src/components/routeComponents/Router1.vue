@@ -1,5 +1,5 @@
 <template>
-        <p class="textCenterAlign">Router1 Page</p>
+        <p class="textCenterAlign">Profile Page</p>
 </template>
 
 <script>

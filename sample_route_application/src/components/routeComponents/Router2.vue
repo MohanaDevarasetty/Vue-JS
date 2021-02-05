@@ -1,5 +1,5 @@
 <template>
-        <p class="textCenterAlign">Router2 Page</p>
+        <p class="textCenterAlign">Payments Page</p>
         
 </template>
 
