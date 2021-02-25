@@ -11,6 +11,9 @@
 
 /.vscode
 /.DS_Store
+../.DS_Store
+../dialogue_box/
+../sample_library_integration/
 
 # profiling files
 chrome-profiler-events.json
